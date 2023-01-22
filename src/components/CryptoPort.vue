@@ -92,7 +92,7 @@
         </svg>
 
         <img
-          src="src\assets\eth-glyph-colored.png"
+          src="@/assets/eth-glyph-colored.png"
           alt="eth-glyph-colored"
           class="w-12"
         />
