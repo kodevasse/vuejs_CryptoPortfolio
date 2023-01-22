@@ -8,14 +8,11 @@
       class="inline-flex h-10 w-10 items-center justify-center rounded-lg"
     >
       <span class="sr-only">my robo</span>
-      <img src="https://robohash.org/perdaniel" alt="Logo" class="mb-4" />
+      <!-- <img src="https://robohash.org/perdaniel" alt="Logo" class="mb-4" /> -->
     </a>
 
     <nav aria-label="Breadcrumb" class="flex">
-      <ol
-        role="list"
-        class="flex overflow-hidden rounded-lg border border-gray-200 text-gray-700 dark:border-gray-700 dark:text-gray-200"
-      >
+      <ol role="list" class="flex overflow-hidden rounded-lg">
         <li class="flex items-center">
           <a
             href="#"

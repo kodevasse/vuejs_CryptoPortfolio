@@ -1,5 +1,5 @@
 <template>
-  <div class="gap-x-16 gap-y-8 flex sm:flex-row flex-col">
+  <div class="gap-x-10 gap-y-8 flex sm:flex-row flex-col">
     <article
       class="animate-background max-w-3xl rounded-xl bg-gradient-to-r from-cyan-300 via-slate-300 to-amber-500 bg-[length:400%_400%] p-0.5 shadow-xl transition [animation-duration:_6s] hover:shadow-sm dark:shadow-gray-600/25"
     >

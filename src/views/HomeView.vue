@@ -1,14 +1,18 @@
 <script setup>
 import NavBar from "@/components/nav/NavBar.vue";
 import PortfolioCrypto from "@/components/PortfolioCrypto.vue";
+import CryptoPort from "@/components/CryptoPort.vue";
 </script>
 
 <template>
-  <div class="backky h-screen w-screen">
+  <div class="backky min-h-screen">
     <NavBar />
 
-    <main class="flex flex-row justify-center mt-16">
+    <main class="flex flex-row justify-center mt-8">
       <PortfolioCrypto class="" />
+    </main>
+    <main class="flex flex-row justify-center mt-8">
+      <CryptoPort class="" />
     </main>
   </div>
 </template>
