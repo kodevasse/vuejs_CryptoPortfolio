@@ -9,19 +9,19 @@ import { Chart as ChartJS, Title, Tooltip, ArcElement, Legend } from "chart.js";
 ChartJS.register(Title, Tooltip, ArcElement, Legend);
 
 export default {
-  name: "BarChart",
+  name: "BarChart2",
   components: { Doughnut },
   data() {
     return {
       chartData: {
         labels: [
-          "Btc",
-          "Polkadot",
-          "Azero",
-          "Ethereum",
-          "L2 scaling",
-          "Others L1",
-          "Altcoins 50+",
+          "Global Index Fund",
+          "China Index Fund",
+          "India Index Fund",
+          "Oil & Gas Index Fund",
+
+          "Environmental Stocks",
+          "5AI Stocks",
         ],
         options: {
           legend: {
@@ -33,9 +33,9 @@ export default {
         datasets: [
           {
             backgroundColor: [
-              "rgba(239,68,68)",
+              "rgba(14, 119, 178)",
               "rgba(236, 72, 153)",
-              "rgba(8, 145, 178)",
+              "rgba(210, 235, 52)",
               "rgba(74, 222, 128)",
               "rgba(120, 113, 108)",
               "rgba(233, 213, 255)",
@@ -47,7 +47,7 @@ export default {
             pointRadius: 0.5,
             // fill: false
 
-            data: [12, 30, 10, 20, 8, 10, 10],
+            data: [51, 13, 11, 15, 5, 5],
           },
         ],
         hoverOffset: 4,
