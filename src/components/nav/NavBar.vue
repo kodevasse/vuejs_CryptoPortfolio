@@ -37,14 +37,14 @@
 
         <li class="relative flex items-center">
           <span
-            class="absolute inset-y-0 -left-px h-10 w-4 bg-gray-100 [clip-path:_polygon(0_0,_0%_100%,_100%_50%)] dark:bg-gray-800"
+            class="absolute inset-y-0 -left-px h-10 w-4 [clip-path:_polygon(0_0,_0%_100%,_100%_50%)] bg-gray-800"
           >
           </span>
 
           <RouterLink
             to="/login"
             href="#"
-            class="flex h-10 items-center bg-white pl-8 pr-4 text-xs font-medium transition hover:text-gray-900 dark:bg-gray-900 dark:hover:text-white"
+            class="flex h-10 items-center pl-8 pr-4 text-xs font-medium transition hover:text-gray-900 bg-gray-900 hover:text-white"
           >
             Dot
           </RouterLink>
@@ -52,7 +52,7 @@
         <li class="relative flex items-center">
           <a
             href="#"
-            class="flex h-10 items-center bg-white pl-8 pr-4 text-xs font-medium transition hover:text-gray-900 dark:bg-gray-900 dark:hover:text-white"
+            class="flex h-10 items-center pl-8 pr-4 text-xs font-medium transition hover:text-gray-900 bg-gray-900 hover:text-white"
           >
             Eth
           </a>
