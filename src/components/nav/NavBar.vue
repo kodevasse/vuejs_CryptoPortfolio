@@ -16,7 +16,7 @@
         <li class="flex items-center">
           <a
             href="#"
-            class="flex h-10 items-center bg-gray-100 px-4 transition hover:text-gray-900 dark:bg-gray-800 dark:hover:text-white"
+            class="flex h-10 items-center px-4 transition hover:text-gray-900 dark:bg-gray-800 dark:hover:text-white"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -62,10 +62,7 @@
   </nav>
 </template>
 
-<script setup>
-
-
-</script>
+<script setup></script>
 <style scoped>
 @keyframes spin {
   to {
