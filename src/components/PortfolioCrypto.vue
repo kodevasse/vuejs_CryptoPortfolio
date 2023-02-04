@@ -4,7 +4,7 @@
       class="animate-background max-w-3xl rounded-xl bg-gradient-to-r from-cyan-300 via-slate-300 to-amber-500 bg-[length:400%_400%] p-0.5 shadow-xl transition [animation-duration:_6s] hover:shadow-sm dark:shadow-gray-600/25"
     >
       <div
-        class="rounded-[10px] bg-white p-4 dark:bg-gray-900 sm:p-6 flex items-center flex-col"
+        class="rounded-[10px] p-4 dark:bg-gray-900 sm:p-6 flex items-center flex-col"
       >
         <h3
           class="font-extrabold text-transparent text-2xl bg-clip-text bg-gradient-to-r from-amber-300 to-pink-400"
@@ -21,7 +21,7 @@
       class="animate-background max-w-3xl rounded-xl bg-gradient-to-r from-green-300 via-orange-500 to-purple-500 bg-[length:400%_400%] p-0.5 shadow-xl transition [animation-duration:_6s] hover:shadow-sm dark:shadow-gray-600/25"
     >
       <div
-        class="h-full rounded-[10px] bg-white p-4 dark:bg-gray-900 sm:p-6 flex items-center flex-col"
+        class="h-full rounded-[10px] p-4 dark:bg-gray-900 sm:p-6 flex items-center flex-col"
       >
         <h3
           class="font-extrabold text-transparent text-2xl bg-clip-text bg-gradient-to-r from-cyan-200 to-amber-400"

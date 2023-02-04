@@ -41,12 +41,13 @@
           >
           </span>
 
-          <a
+          <RouterLink
+            to="/login"
             href="#"
             class="flex h-10 items-center bg-white pl-8 pr-4 text-xs font-medium transition hover:text-gray-900 dark:bg-gray-900 dark:hover:text-white"
           >
             Dot
-          </a>
+          </RouterLink>
         </li>
         <li class="relative flex items-center">
           <a
@@ -61,6 +62,10 @@
   </nav>
 </template>
 
+<script setup>
+
+
+</script>
 <style scoped>
 @keyframes spin {
   to {
