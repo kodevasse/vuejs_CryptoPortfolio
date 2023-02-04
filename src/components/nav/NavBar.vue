@@ -16,7 +16,7 @@
         <li class="flex items-center">
           <a
             href="#"
-            class="flex h-10 items-center px-4 transition hover:text-gray-900 dark:bg-gray-800 dark:hover:text-white"
+            class="flex h-10 items-center px-4 transition bg-gray-800 hover:text-white"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
